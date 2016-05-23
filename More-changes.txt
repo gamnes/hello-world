@@ -1,1 +1,1 @@
-ore changes
+Added one more change in sub-repo.ore changes
